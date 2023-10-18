@@ -8,7 +8,7 @@
 #include <stdio.h>     // input/output library    -  printf, scanf, ..
 #include <string.h>    // string handling library -  strlen, strcpy, strcmp, ..
 int main(void)
-{
+{ 
   /*  VARIABLES  */
   int numberOne;       // first Operand
   int numberTwo;       // second Operand
