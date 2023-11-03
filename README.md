@@ -8,15 +8,15 @@
 ## Codebeispiel
 **`for-Schleife`**
 ```c
-  for ( i = -5; i<=5; i++ )
+  for ( i = 5; i>=-5; i-- )
   {
     printf( "   %3d   -   %3d\n", (i*10),(((i*10)*9)/5)+32);
   }
 ```
 
 ## VISUAL STUDIO:
-![vs](https://github.com/IxI-Enki/Uebung-cabspr-005/assets/138018029/ffa7514f-3154-4cd9-8872-83dd4af0e042)
+![vs](https://github.com/IxI-Enki/Uebung-cabspr-005/assets/138018029/f5e67f31-ab85-44ab-824e-988b101822d4)
 
 ## AUSGABE:
-![a](https://github.com/IxI-Enki/Uebung-cabspr-005/assets/138018029/668bd9df-ad93-41ea-8a65-5f5265950163)
+![a](https://github.com/IxI-Enki/Uebung-cabspr-005/assets/138018029/012650a2-7ff7-4059-a4e3-4cc6f02eabdd)
 
