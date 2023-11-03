@@ -18,7 +18,7 @@ int main(void)
   printf("\n  TEMPERATURTABELLE: ");
   printf("\n Celsius - Fahrenheit ");
   printf("\n======================\n");  
-  for ( i = -5; i<=5; i++ )
+  for ( i = 5; i>=-5; i-- )
   {
     printf( "   %3d   -   %3d\n", (i*10),(((i*10)*9)/5)+32);
   }
